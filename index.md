@@ -19,7 +19,7 @@ first|second
 6|1
 
 #### XD
-![cool wallpaper](https://w.wallhaven.cc/full/1p/wallhaven-1pv19v.png)
+![cool wallpaper](https://th.wallhaven.cc/lg/3l/3lp2md.jpg)
 #### Code
 ##### normal code with `pass`
 ```
